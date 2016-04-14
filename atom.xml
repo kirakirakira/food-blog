@@ -5,7 +5,7 @@
   <link href="/food-blog/atom.xml" rel="self"/>
   
   <link href="http://kirakirakira.github.io/food-blog/"/>
-  <updated>2016-04-14T11:10:52.206Z</updated>
+  <updated>2016-04-14T13:49:56.467Z</updated>
   <id>http://kirakirakira.github.io/food-blog/</id>
   
   <author>
@@ -14,6 +14,25 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>First Post</title>
+    <link href="http://kirakirakira.github.io/food-blog/2016/04/14/First-Post/"/>
+    <id>http://kirakirakira.github.io/food-blog/2016/04/14/First-Post/</id>
+    <published>2016-04-14T17:49:05.000Z</published>
+    <updated>2016-04-14T13:49:56.467Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;My-first-Hexo-blog-post&quot;&gt;&lt;a href=&quot;#My-first-Hexo-blog-post&quot; class=&quot;headerlink&quot; title=&quot;My first Hexo blog post&quot;&gt;&lt;/a&gt;My first Hexo blog post&lt;/h1&gt;&lt;p&gt;I am not entirely sure how this works, or if I am using this theme correctly, but let’s see where this new post goes.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;My-first-Hexo-blog-post&quot;&gt;&lt;a href=&quot;#My-first-Hexo-blog-post&quot; class=&quot;headerlink&quot; title=&quot;My first Hexo blog post&quot;&gt;&lt;/a&gt;My first Hexo blo
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
